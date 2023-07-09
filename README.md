@@ -1,2 +1,2 @@
 # LeetCode
-The Link of the Extension [LeetHub](https://github.com/QasimWani/LeetHub)
+# The Link of the Extension [LeetHub](https://github.com/QasimWani/LeetHub)
